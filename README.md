@@ -1,4 +1,4 @@
-# mb-interview
+# mb-interview-task
 
 Thank you for taking the time to interview with us!
 
@@ -10,8 +10,8 @@ Thank you for taking the time to interview with us!
 
 ```bash
 # Clone the repository
-git clone https://github.com/amitdubeyup/mb-interview.git
-cd mb-interview
+git clone https://github.com/amitdubeyup/mb-interview-task.git
+cd mb-interview-task
 
 ```
 
@@ -34,7 +34,7 @@ Update the `.env` file with your configuration values.
 ## 📁 Project Structure
 
 ```
-mb-interview/
+mb-interview-task/
 ├── .env.example
 ├── README.md
 ```
